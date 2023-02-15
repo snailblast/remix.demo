@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remix.demo", "remix.demo.csproj", "{E494744D-C1B7-4351-B616-79549DE1B5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E494744D-C1B7-4351-B616-79549DE1B5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E494744D-C1B7-4351-B616-79549DE1B5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E494744D-C1B7-4351-B616-79549DE1B5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E494744D-C1B7-4351-B616-79549DE1B5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D83AD6-F436-4472-B8DA-F4CF6140ECEA}
+	EndGlobalSection
+EndGlobal
